@@ -1,0 +1,48 @@
+body
+{
+background-image:url(../img/bg1.png);
+background-repeat:no-repeat;
+background-position:top;
+background-attachment:fixed;
+}
+.studdetailsfont
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+color:#212121;
+}
+
+.jewelfont
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+color:#ccc;
+}
+.studdetailshead
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:15px;
+font-weight:bold;
+color:#000;
+}
+
+.studdetailshead a
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:15px;
+font-weight:bold;
+color:#535353;
+text-decoration:none;
+}
+
+.studdetailshead a:hover
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:15px;
+font-weight:bold;
+color:#000;
+text-decoration:underline;
+}
+
